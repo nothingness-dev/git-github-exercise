@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 first commit from nothingness-dev:feature
 second commit from nothingness-dev:feature
 third commit from nothingness-dev:feature
@@ -9,4 +10,5 @@ seventh commit from nothingness-dev:feature
 fith commit from nothingness-dev:develop
 sixth commit from nothingness-dev:develop
 first commit from nothingness-dev:develop
-
+first commit from nothingness-dev:develop
+second commit from nothingness-dev:develop
